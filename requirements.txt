@@ -1,0 +1,12 @@
+﻿django
+psycopg2-binary
+dj_database_url
+gunicorn
+django-crispy-forms
+crispy-bootstrap5
+asgiref
+six
+sqlparse
+Pillow
+whitenoise
+
